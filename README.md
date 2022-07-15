@@ -1,2 +1,0 @@
-Program php 7.4.26 versiyonu ile hazırlanmıştır. Eticaret/admin adresinden admin klasörüne, Eticaret klasöründen ise siteye ulaşabilirsiniz. Admin paneline girişte kullanıcı adı "tayfun" şifresi "12345" olarak giriş yapıp inceleyebilirsiniz.
-Projede admin paneli, varyasyonlu ve varyasyonsuz ürünler, ürün fiyatlandırmaları, üye girişi, sipariş takip, iade ürün takibi, sepete ekleme gibi özellikler eklenmiştir.
